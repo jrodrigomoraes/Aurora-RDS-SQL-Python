@@ -25,7 +25,7 @@ cd banco-s3-postgres
 
 ---
 
-## 2. Crie um ambiente virtual (opcional, mas recomendado):
+## 2. Crie um ambiente virtual (opcional, mas eu recomendo):
 ```bash
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
