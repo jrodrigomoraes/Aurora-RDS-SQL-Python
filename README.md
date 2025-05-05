@@ -73,8 +73,8 @@ BancodeDadosRDS.py
 banco-s3-postgres/
 ├── src/
 │   └── integracao_s3_postgres.py
-├── imgs/                 # Adicione imagens do projeto aqui
-├── .env                  # NÃO suba este arquivo para o GitHub
+├── imgs/                 
+├── .env                
 ├── .gitignore
 ├── requirements.txt
 └── README.md
