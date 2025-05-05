@@ -72,7 +72,7 @@ BancodeDadosRDS.py
 ```bash
 banco-s3-postgres/
 ├── src/
-│   └── integracao_s3_postgres.py
+│   └── BancodeDadosRDS.py
 ├── imgs/                 
 ├── .env                
 ├── .gitignore
