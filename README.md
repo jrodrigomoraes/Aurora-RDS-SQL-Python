@@ -4,7 +4,12 @@ Projeto de integração entre um bucket S3 e um banco de dados PostgreSQL hosped
 
 ---
 
+## Esquema Geral:
+![Esquema](Imagens/EsquemaProjeto.jpg)
+
 ## 🔧 Tecnologias Utilizadas
+
+---
 
 - Python 3
 - [Boto3](https://boto3.amazonaws.com/) (SDK AWS)
