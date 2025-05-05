@@ -97,7 +97,7 @@ Nunca compartilhe suas chaves de acesso (AWS ou banco de dados) em repositórios
 ---
 
 ## 8. Conclusão:
-Este projeto foi desenvolvido com o objetivo de demonstrar, na prática, conhecimentos em integração de dados na nuvem, utilizando serviços da AWS (S3 e RDS) e Python. Ele mostra minha capacidade de trabalhar com automação de processos, manipulação de arquivos, acesso seguro a bancos de dados e boas práticas de versionamento com Git. É um exemplo real de como aplico conceitos de engenharia de dados em um cenário próximo ao ambiente de produção.
+Este projeto foi desenvolvido com o objetivo de demonstrar, na prática, conhecimentos em integração de dados na nuvem, utilizando serviços da AWS (S3 e RDS) e Python. Ele mostra a capacidade de se trabalhar com automação de processos, manipulação de arquivos, acesso seguro a bancos de dados e boas práticas de versionamento com Git. É um exemplo real de como aplico conceitos de engenharia de dados em um cenário próximo ao ambiente de produção.
 
 ---
 
